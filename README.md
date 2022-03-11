@@ -140,6 +140,10 @@ plt.show()
 
     Learns on the basis of reward + punishment for taking different actions
     
+<img src="https://github.com/xprilion/random-storage/raw/master/images/dct1_3.png" alt="alt text"/>![image](https://user-images.githubusercontent.com/99629762/157795026-20e7c671-861d-43a5-9d48-145acfbec4ea.png)
+
+
+    
     
     
     
