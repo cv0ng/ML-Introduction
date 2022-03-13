@@ -135,12 +135,25 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/99629762/156688798-7fefc870-4c67-4a53-9326-6bcf42f8a8c4.png)
 
 
-    
+## Clustering vs Classification algorithms
+
+![image](https://user-images.githubusercontent.com/99629762/158065526-ed60b83a-b507-44f6-acc7-ee2707f38a78.png)
+
+
+
+
 ## Reinforcement learning
 
     Learns on the basis of reward + punishment for taking different actions
     
-<img src="https://github.com/xprilion/random-storage/raw/master/images/dct1_3.png" 
+![image](https://user-images.githubusercontent.com/99629762/158065426-9a3395c9-69c4-443b-befc-ce868172cbc0.png)
+
+
+## Reinforcement learning example
+
+  ![image](https://user-images.githubusercontent.com/99629762/158066937-64f6040e-39c8-4b43-b970-4e9bfd429886.png)
+
+  the agent (hypothetical entity) is trying to walk across the field, which is the environment. Walking is the action the agent performs on the environment. The distance the       agent walks acts as the reward. The agent tries to perform the action in such a way that the reward maximizes.
 
 
     
